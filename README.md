@@ -2,7 +2,7 @@
 
 ![Job Dashboard](/Images/Dashboard.png)
 
-[View Live Dashboard](https://app.powerbi.com/links/j-Ljk-asp1?ctid=4d7ba981-523c-4b1a-be42-414e0e085b17&pbi_source=linkShare)
+# [View Live Dashboard](https://app.powerbi.com/links/j-Ljk-asp1?ctid=4d7ba981-523c-4b1a-be42-414e0e085b17&pbi_source=linkShare)
 
 
 ## Introduction
